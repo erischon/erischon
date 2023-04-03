@@ -10,4 +10,4 @@
 
 ## 🛠️ Technologies & Tools
 
-[![Erischon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=erischon)](https://github.com/anuraghazra/github-readme-stats)
+![Erischon's GitHub stats](https://github-readme-stats.vercel.app/api?username=erischon&show_icons=true&theme=radical)
