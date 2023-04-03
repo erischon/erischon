@@ -8,6 +8,5 @@
 - 💬 Ask me about React
 - 📫 How to reach me: [@erischon](https://twitter.com/erischon)
 
-## 🛠️ Technologies & Tools
 
-![Erischon's GitHub stats](https://github-readme-stats.vercel.app/api?username=erischon&show_icons=true&theme=radical)
+![Erischon's GitHub stats](https://github-readme-stats.vercel.app/api?username=erischon&show_icons=true&theme=dark)
