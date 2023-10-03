@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning Node.js & React
+- 🌱 I’m currently learning Front-end
 - 👯 I’m looking to collaborate on React or Nextjs Projet
 - 🤔 I’m looking for help with finding Opensource Projects
 - 💬 Ask me about React
