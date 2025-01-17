@@ -1,12 +1,9 @@
 ### Hi there, I'm Eri Schön 👋
 
 
-- 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning Front-end
-- 👯 I’m looking to collaborate on React or Nextjs Projet
+- 🔭 I’m currently working on Data Analytics Projects
+- 🌱 I’m currently learning SQL & Power BI
+- 👯 I’m looking to collaborate with other Data Analyst
 - 🤔 I’m looking for help with finding Opensource Projects
-- 💬 Ask me about React
+- 💬 Ask me about Excel & Power BI
 - 📫 How to reach me: [@erischon](https://twitter.com/erischon)
-
-
-![Erischon's GitHub stats](https://github-readme-stats.vercel.app/api?username=erischon&show_icons=true&theme=dark)
